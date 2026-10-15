@@ -1,0 +1,3 @@
+<?php $page_title='R5 Essence | Contacts'; require 'header.php'; ?>
+<main><section class="section contact"><div class="contact-box"><p class="section-label">GET IN TOUCH</p><h2>Let's Make an <span>Impression.</span></h2><p>Interested in R5 Essence? Contact us for orders, questions, or product details.</p><div class="contact-grid"><div><span class="contact-icon">✉</span><h3>Email</h3><p>r5essence@gmail.com</p></div><div><span class="contact-icon">☎</span><h3>Phone</h3><p>+63 912 345 6789</p></div><div><span class="contact-icon">⌖</span><h3>Location</h3><p>San Jose, Talibon, Bohol, Philippines</p></div></div></div></section></main>
+<?php require 'footer.php'; ?>

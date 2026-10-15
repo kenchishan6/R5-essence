@@ -1,0 +1,1 @@
+<footer><img class="footer-logo" src="assets/logo.jpg" alt="R5 Essence logo"><p>R5 ESSENCE</p><small>Five friends. One vision. Endless impression.</small><div class="footer-line"></div><small>© 2026 R5 Essence. All rights reserved.</small></footer></body></html>
